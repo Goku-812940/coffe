@@ -18,35 +18,35 @@ h5{
     margin-left:618px;
     margin-top: -39px;
     color: #000000;
-    font-family: 'Signika Negative', sans-serif;
+    font-family: 'Signika', sans-serif;
 }
 #a1{
     margin-left:518px;
     margin-top:-69px;
     color: #000000;
-    font-family: 'Signika Negative', sans-serif;
+    font-family: 'Signika', sans-serif;
 }
 #a2{
     margin-left:766px;
     margin-top: -41px;
     color: #000000;
-    font-family: 'Signika Negative', sans-serif;
+    font-family: 'Signika', sans-serif;
 }
 #a3{
     margin-left:876px;
     margin-top: -39px;
     color: #000000;
-    font-family: 'Signika Negative', sans-serif;
+    font-family: 'Signika', sans-serif;
 }
 #a4{
     margin-left:992px;
     margin-top: -41px;
     color: #000000;
-    font-family: 'Signika Negative', sans-serif;
+    font-family: 'Signika', sans-serif;
 }
-button{
+.btn{
     color:#ffffff;
-    font-family: 'Signika Negative', sans-serif;
+    font-family: 'Signika', sans-serif;
     background-color: #363636;
     position: absolute;
     top:31px;
@@ -282,3 +282,88 @@ button{
     margin-left:488px ;
     margin-top: -3px;
    }
+   .shop-1{
+  background-color: #fff9f9;
+    width: 102%;
+    height:510px;
+    margin-left: -8px;
+    display: flex;
+    justify-content: space-around;
+   }
+.pro{
+    width: 25.33%;
+    height:470px;
+    border-radius:6px ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.pro-1{
+    background-color: white;
+}
+.pro-2{
+    background-color: white;
+}
+.pro-3{
+    background-color: white;
+}
+.shop-2{
+    background-color: #ffffff;
+      width: 102%;
+      height:510px;
+      margin-left: -8px;
+      display: flex;
+      justify-content: space-around;
+     }
+  .prod{
+      width: 25.33%;
+      height:470px;
+      border-radius:6px ;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .pro-4{
+      background-color: white;
+  }
+  .pro-5{
+      background-color: white;
+  }
+  .pro-6{
+      background-color: white;
+  }
+  #g-1{
+    font-family: 'Signika', sans-serif;
+    color: #363636;
+    font-size: xx-large;
+    text-align: center;
+  }
+  .img-7{
+    width: 98.33%;
+    height: 286px;
+    margin-top: 5px;
+  }
+  .box{
+    font-family: 'Signika', sans-serif;
+    font-size: 20px;
+    color: #363636;
+    margin-left: 16px;
+    margin-top: -26px ;
+  }
+  .btnn{
+    font-family: 'Signika', sans-serif;
+    background-color: #363636;
+    color: white;
+    height: 38px;
+    width: 126px;
+    margin-top: 5px; 
+    margin-left: 245px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 6px;
+    border: none;
+  }
+  .btnn:hover{
+    background-color: #870000;
+  }
+.bow-1{
+    text-align: center;
+    font-family: 'Signika', sans-serif;
+    color: #363636;
+    margin-top: 30px;
+}
