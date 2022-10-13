@@ -1,18 +1,148 @@
-div{
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,200;1,100;1,400;1,500&family=Peralta&family=Signika:wght@700&display=swap');
+.header{
     width: 102%;
-    height: 130px;
-    background-color: #363636;
-    margin-top: -8px;
-    margin-left: -8px; 
+    height: 100px;
+    background-color: #ffffff;
+    position:fixed;
+    top: 0px;
+    left: -12px; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
    
 }
-img{
-    height: 130px;
-    width: 222px;
-    margin-left: 100px;
+#img-1{
+    height:112px;
+    width: 228px;
+    margin-left: 85px;
 }
-h3{
-    margin-left: 433px;
-    margin-top: -84px;
-    color: #bd9d77;
+h5{
+    margin-left:618px;
+    margin-top: -39px;
+    color: #000000;
+    font-family: 'Signika Negative', sans-serif;
 }
+#a1{
+    margin-left:518px;
+    margin-top:-69px;
+    color: #000000;
+    font-family: 'Signika Negative', sans-serif;
+}
+#a2{
+    margin-left:766px;
+    margin-top: -41px;
+    color: #000000;
+    font-family: 'Signika Negative', sans-serif;
+}
+#a3{
+    margin-left:876px;
+    margin-top: -39px;
+    color: #000000;
+    font-family: 'Signika Negative', sans-serif;
+}
+#a4{
+    margin-left:992px;
+    margin-top: -41px;
+    color: #000000;
+    font-family: 'Signika Negative', sans-serif;
+}
+button{
+    color:#ffffff;
+    font-family: 'Signika Negative', sans-serif;
+    background-color: #363636;
+    position: absolute;
+    top:31px;
+    left:1105px;
+    width:167px;
+    height: 34px;    
+}
+  
+.row{
+    width: 102%;
+    height:801px;
+    margin-left: -8px;
+   
+   
+}
+/* rgba(247,247,247,255) */
+#l-1{
+    color: #cccdc6;
+    font-family: 'Signika', sans-serif;
+    margin-left:147px;
+    margin-top:-489px;
+    font-size: 50px;
+}
+#P1{
+    margin-left: -115px;
+}
+#u1{
+    margin-left: -89px;
+}
+.logo{
+    background-color: rgba(247,247,247,255);
+   height: 400px;
+   width: 102%;
+   margin-left:-8px ;   
+}
+.cn{
+    height: 99px;
+    width: 99px;
+   
+}
+.donet{
+    margin-top: 138px;
+    margin-left:316px;
+}
+.fine{
+    margin-top: 138px;
+    margin-left:164px;
+}
+.combo{
+    margin-top: 138px;
+    margin-left:164px;
+}
+.delivery{
+    margin-top: 138px;
+    margin-left:164px;
+}
+
+.qw{
+    font-family:'Signika', sans-serif; 
+}
+.egg{
+    margin-top: 15px;
+    margin-left: 288px;
+}
+.finest{
+    margin-top: -43px;
+    margin-left: 557px;
+}
+.exite{
+    margin-top: -43px;
+    margin-left: 817px;
+}
+.free{
+    margin-top: -43px;
+    margin-left:1112px;
+}
+.para{
+    height: 400px;
+    width: 102%;
+    margin-left:-8px ;   
+    background-color: rgba(247,161,26,255);
+}
+.img-3{
+    height: 400px;
+    width: 494px;
+}
+#l-2{
+    color: #ffffff;
+    font-family: 'Signika', sans-serif;
+    margin-left:906px;
+    margin-top:-307px;
+    font-size: 58px;
+}
+   #m-1{
+    margin-left:23px;
+   }
+   #m-2{
+    margin-left:95px;
+   }
